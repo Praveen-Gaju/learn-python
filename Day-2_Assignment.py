@@ -16,3 +16,17 @@ print(f"Name is {Name}, Age is {age} and Mobile No. is {mobile_number}")
 a=100
 b=50
 print(a+b)
+
+# List of values
+
+my_list=["Praveen",26,234566]
+print(my_list)
+
+# conversion of Data Types
+
+a="100"
+b="200"
+d=a+b
+print(d)  #here 100 and 200 is string output will be 100200
+c=int(a)+int(b) #here string is converted as int and adding
+print(c)
