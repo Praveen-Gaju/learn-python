@@ -30,3 +30,4 @@ d=a+b
 print(d)  #here 100 and 200 is string output will be 100200
 c=int(a)+int(b) #here string is converted as int and adding
 print(c)
+

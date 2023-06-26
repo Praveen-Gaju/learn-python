@@ -11,3 +11,4 @@ name="praveen"
 age=27
 gender="male"
 print(f"My name is {name}, My age is {age}, My gender is {gender}")
+
